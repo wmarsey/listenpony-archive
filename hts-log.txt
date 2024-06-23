@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Sun, 23 Jun 2024 20:52:20 at https://listenpony.com/
+(httrack https://listenpony.com/ -O . -r10 -w -s0 -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:55:00	Error: 	"Not Found" (404) at link https://listenpony.com/commissions/william-marsey/wmarsey.bandcamp.com (from https://listenpony.com/commissions/william-marsey/lady-her-toilet)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 40 seconds : 112 links scanned, 111 files written (2328766 bytes overall) [772810 bytes received at 4830 bytes/sec], 2320102 bytes transferred using HTTP compression in 102 files, ratio 25%, 46.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
